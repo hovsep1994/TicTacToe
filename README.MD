@@ -1,5 +1,4 @@
-<h1>Code sample for students.</h1>
-
+<h1>Calculator Homework for ACA students</h1>
 
 <b>Task 1</b><br>
 Create class which should be responsible for the board of game.
